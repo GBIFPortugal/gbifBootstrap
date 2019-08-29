@@ -1,4 +1,4 @@
-name = GBIF.PT Bootstrap Sub-Theme
+name = GBIF.PT Bootstrap Sub-Theme 1.0
 description = Uses source bootstrap for all CSS and JavaScript. No source files or compiling is necessary and is recommended for simple sites or beginners.
 core = 7.x
 base theme = bootstrap
