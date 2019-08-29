@@ -1,0 +1,19 @@
+<?php
+  global $base_path;
+?>
+
+<div class="row license">
+   <div class="col-sm-6">
+     <p>Except when stated, all contents in this site are licensed under license <a href="https://creativecommons.org/licenses/by/3.0/pt/" title="External link to Creative Commons" class="external">Creative Commons Atribuição 3.0 Portugal</a>.
+       <a href="http://creativecommons.org/licenses/by/3.0/pt/" title="External link to Creative Commons"><img src="http://i.creativecommons.org/l/by/3.0/88x31.png" width="88" height="31" alt=""></a><br><br>
+       The use of GBIF contents is subjected to the <a href="https://www.gbif.org/terms/data-user" title="Acordo de Utilização de Dados">GBIF Data User Agreement</a>, and to <a href="http://www.gbif.pt/node/116" title="Política de Privacidade">Privacy Policy (document in portuguese)</a>.<br><br><br></p>
+       <p style="color: #CCC">Contact: <br>Nó Português do GBIF | Instituto Superior de Agronomia | Herbário | Tapada da Ajuda | 1349-017 Lisboa, Portugal<br>
+       Tel: (+351) 213653165 | Fax: (+351) 213653195 | email: node_at_gbif.pt</p>
+   </div>
+   <div class="col-sm-6">
+     <p>The <a href="http://www.gbif.pt" title="Nó Português do GBIF">Portuguese Node of GBIF</a> is hosted by <a href="http://www.isa.ulisboa.pt" title="Instituto Superior de Agronomia (ISA)">Instituto Superior de Agronomia (ISA)</a>,
+     with the support of <a href="http://www.fct.pt" title="Fundação para a Ciência e a Tecnologia (FCT)">Fundação para a Ciência e a Tecnologia (FCT)</a>.</p><br>
+     <p><a href="http://www.isa.ulisboa.pt" target="_blank"><img src="<?php print $base_path?>sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/LogoISA.png" class="img-rounded img-responsive center-block" alt="Instituto Superior de Agronomia da Universidade de Lisboa" title="Instituto Superior de Agronomia da Universidade de Lisboa"/></a></p>
+     <p><a href="http://www.fct.pt" target="_blank"><img src="<?php print $base_path?>sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/2017_FCT_H_cor.jpg" class="img-rounded img-responsive center-block" alt="Fundação para a Ciência e a Tecnologia" title="Fundação para a Ciência e a Tecnologia"/></a></p>
+   </div>
+</div>

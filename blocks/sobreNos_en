@@ -1,0 +1,45 @@
+<?php
+  global $base_path;
+?>
+
+<div class="row">
+   <div class="col-sm-4">
+     <div class="aboutUs_text">
+     <h1>Global Biodiversity Information Facility (GBIF)</h1>
+     <em>Free and Open Access to biodiversity data</em>
+     <p><a href="http://www.gbif.org" target="_blank"><img src="<?php print $base_path?>sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIF-2015-dotorg-stacked.png" class="img-rounded img-responsive center-block" alt="Global Biodiversity Information Facility" title="Global Biodiversity Information Facility"/></a></p>
+     <p>GBIF—the Global Biodiversity Information Facility—is an international network and research infrastructure funded by the world’s governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
+     <br><br><a href="http://www.gbif.org"><span class="glyphicon glyphicon-link"></span> More about GBIF</a>
+     <br><a href="http://www.gbif.org/country/PT"><span class="glyphicon glyphicon-link"></span> About the participation of Portugal</a></p>
+   </div>
+   </div>
+   <div class="col-sm-4">
+     <div class="aboutUs_text">
+       <h1>Portuguese Node of GBIF (GBIF Portugal)</h1>
+       <em>We intend to promote Portuguese participation through the publication and use of data</em>
+       <p><a href="http://www.gbif.pt" target="_blank"><img src="<?php print $base_path?>sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png" class="img-rounded img-responsive center-block" alt="Nó Português do GBIF" title="Nó Português do GBIF"/></a></p>
+       <h2>Vision</h2>
+       <p>Free and open sharing of primary biodiversity data enriches knowledge and value of Portuguese and global biodiversity.</p>
+       <h2>Mission</h2>
+       <p>To promote the integration of Portuguese data providers and biodiversity information resources into the GBIF network, and the availability of biodiversity data for scientific research and to be used by society.
+         <br><br><a href="http://www.gbif.pt/planoestrategico"><span class="glyphicon glyphicon-link"></span> Strategic Plan</a>
+         <br><a href="http://www.gbif.pt/relatorios"><span class="glyphicon glyphicon-link"></span> Reports</a></p></p>
+   </div>
+   </div>
+   <div class="col-sm-4">
+     <div class="aboutUs_text">
+       <h1>Support the community</h1>
+       <em>Support for the use and participation of the national community in GBIF</em>
+       <div class="circle_us">
+           <p><span class="glyphicon glyphicon-book"><br><a href="http://www.gbif.pt/formacao"><span class="glyphicon glyphicon-link"></span> Training</a></p>
+       </div>
+       <div class="circle_us">
+           <p><span class="glyphicon glyphicon-hdd"><br><a href="http://dados.gbif.pt"><span class="glyphicon glyphicon-link"></span> Infrastructure</a></p>
+       </div>
+       <div class="circle_us">
+           <p><span class="glyphicon glyphicon-certificate"><br><a href="http://www.gbif.pt/premios"><span class="glyphicon glyphicon-link"></span>Prizes</a></p>
+       </div>
+       <p>The action of GBIF Portugal seeks to increase the capacity of the national community, supporting it through training, infrastructure and promotion of data publication by national institutions. This activity extends, through cooperation, to the other GBIF members and CPLP countries.</p>
+   </div>
+   </div>
+</div>

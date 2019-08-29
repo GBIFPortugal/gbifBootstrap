@@ -1,0 +1,45 @@
+<?php
+  global $base_path;
+?>
+
+<div class="row">
+   <div class="col-sm-4">
+     <div class="aboutUs_text">
+     <h1>Global Biodiversity Information Facility (GBIF)</h1>
+     <em>Acesso livre e gratuito a dados de biodiversidade</em>
+     <p><a href="http://www.gbif.org" target="_blank"><img src="<?php print $base_path?>sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIF-2015-dotorg-stacked.png" class="img-rounded img-responsive center-block" alt="Global Biodiversity Information Facility" title="Global Biodiversity Information Facility"/></a></p>
+     <p>O GBIF — Sistema Global de Informação sobre Biodiversidade — é uma rede internacional e infraestrutura de investigação financiada por governos de todo o mundo, com o objetivo de dar a qualquer pessoa, em qualquer lugar, acesso aberto a dados sobre toda a vida na Terra.
+     <br><br><a href="http://www.gbif.org"><span class="glyphicon glyphicon-link"></span> Mais sobre o GBIF</a>
+     <br><a href="http://www.gbif.org/country/PT"><span class="glyphicon glyphicon-link"></span> Sobre a participação de Portugal</a></p>
+   </div>
+   </div>
+   <div class="col-sm-4">
+     <div class="aboutUs_text">
+       <h1>Nó Português do GBIF (GBIF Portugal)</h1>
+       <em>Pretendemos promover a participação portuguesa através da publicação e uso de dados</em>
+       <p><a href="http://www.gbif.pt" target="_blank"><img src="<?php print $base_path?>sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/GBIFPORTUGAL-01.png" class="img-rounded img-responsive center-block" alt="Nó Português do GBIF" title="Nó Português do GBIF"/></a></p>
+       <h2>Visão</h2>
+       <p>A partilha aberta e gratuita dos dados primários de biodiversidade enriquece o conhecimento e valor da biodiversidade portuguesa e global.</p>
+       <h2>Missão</h2>
+       <p>Promover a integração dos provedores de dados portugueses e recursos de informação sobre biodiversidade na rede GBIF, e a disponibilidade dos dados de biodiversidade para a investigação científica e usos pela sociedade.
+         <br><br><a href="http://www.gbif.pt/planoestrategico"><span class="glyphicon glyphicon-link"></span> Plano Estratégico</a>
+         <br><a href="http://www.gbif.pt/relatorios"><span class="glyphicon glyphicon-link"></span> Relatórios</a></p></p>
+   </div>
+   </div>
+   <div class="col-sm-4">
+     <div class="aboutUs_text">
+       <h1>Suporte à comunidade</h1>
+       <em>Apoio ao uso e participação da comunidade nacional no GBIF</em>
+       <div class="circle_us">
+           <p><span class="glyphicon glyphicon-book"><br><a href="http://www.gbif.pt/formacao"><span class="glyphicon glyphicon-link"></span> Formação</a></p>
+       </div>
+       <div class="circle_us">
+           <p><span class="glyphicon glyphicon-hdd"><br><a href="http://dados.gbif.pt"><span class="glyphicon glyphicon-link"></span> Infraestrutura</a></p>
+       </div>
+       <div class="circle_us">
+           <p><span class="glyphicon glyphicon-certificate"><br><a href="http://www.gbif.pt/premios"><span class="glyphicon glyphicon-link"></span>Prémios</a></p>
+       </div>
+       <p>A acção do GBIF Portugal procura aumentar a capacitação da comunidade nacional, apoiando através de formação, infraestrura e promoção da publicação de dados pelas instituições nacionais. Esta actividade estende-se através da cooperação, aos outros membros do GBIF e aos países da CPLP.</p>
+   </div>
+   </div>
+</div>

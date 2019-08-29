@@ -1,0 +1,19 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 block">
+            <div class="circle">
+                <p><a href="https://www.gbif.org/occurrence/search?country=PT" id="totalRecords"></a> ocorrências de Biodiversidade em Portugal</p>
+            </div>
+        </div>
+        <div class="col-md-4 block">
+            <div class="circle">
+                <p><a href="https://www.gbif.org/occurrence/search?publishing_country=PT&advanced=1" id="totalRecordsPT"></a> ocorrências publicadas por Portugal</p>
+            </div>
+        </div>
+        <div class="col-md-4 block">
+            <div class="circle">
+                <p><a href="https://www.gbif.org/publisher/search?country=PT" id="totalPublicadoresPT"></a> publicadores portugueses</p>
+            </div>
+        </div>
+    </div>
+</div>
