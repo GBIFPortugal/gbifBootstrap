@@ -1,7 +1,24 @@
 <!-- @file Instructions for subtheming using the CDN Starterkit. -->
 <!-- @defgroup subtheme_cdn -->
 <!-- @ingroup subtheme -->
-# CDN Starterkit
+# gbifBootstrap
+
+gbifBootStrap is the customised subtheme of Bootstrap for Drupal 7.
+
+### References
+- Drupal 7 Bootstrap development tutorial videos by Drupal Legoland Playlist: https://goo.gl/8qp7kl
+
+
+### Modules
+
+These modules were added or changed
+- Font Awesome 7.x-3.10
+- Empty Front Page 7.x-1.0
+- Block languages 7.x-1.13 (activate)
+- disable module comment
+- Empty front Page
+
+## CDN Starterkit
 
 The CDN Starterkit is rather simple to set up. You don't have to do anything
 until you wish to override the default [Drupal Bootstrap] base theme settings
