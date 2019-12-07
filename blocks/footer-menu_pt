@@ -5,7 +5,7 @@
     <div class="col-sm-3"><h2><a href="http://www.gbif.pt/taxonomy/term/29">Participar</a></h2>
       <ul>
         <li><a href="http://www.gbif.pt/node/18">Publicadores Portugueses</a></li>
-        <li><a href="http://www.gbif.pt/node/28">Acordo de partilha de dados</a></li>
+        <li><a href="http://www.gbif.pt/node/492">Acordo de partilha de dados</a></li>
         <li><a href="http://www.gbif.pt/node/133">Ciclo de publicação de dados</a></li>
         <li><a href="http://www.gbif.pt/node/17">Como partilhar</a></li>
         <li><a href="http://www.gbif.pt/node/46">Informação sobre uso</a></li>
@@ -15,7 +15,7 @@
     </div>
     <div class="col-sm-3"><h2><a href="http://www.gbif.pt/taxonomy/term/30">Dados</a></h2>
       <ul>
-        <li><a href="http://www.gbif.pt/node/25">Acordo de utilização de dados</a></li>
+        <li><a href="http://www.gbif.pt/node/491">Acordo de utilização de dados</a></li>
         <li><a href="http://www.gbif.pt/node/24">Pesquisar e aceder aos dados</a></li>
         <li><a href="http://www.gbif.pt/node/133">Exemplos de uso dos dados</a></li>
         <li><a href="http://www.gbif.pt/node/17">Política de Acesso Aberto</a></li>
