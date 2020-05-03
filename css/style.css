@@ -145,6 +145,12 @@ a.active-trail.active {
   height: auto;
 }
 
+div.field.field-name-field-image.field-type-image.field-label-hidden > div > div > img {
+  width: 600px;
+  height: auto;
+}
+
+
 @media only screen and (min-width: 768px) {
   .not-front.not-logged-in.no-sidebars .main-container .row{
     margin-left: 15%;
@@ -244,18 +250,18 @@ a, a:hover{
 - missao do GBIF
 - region Missao
 */
-#block-block-16{
+#block-block-6{
   color: #898989;
   text-align: center;
 }
 
-#block-block-16 h2{
+#block-block-6 h2{
   color: #898989;
   margin-top: 50px;
   margin-bottom: 40px;
 }
 
-#block-block-16 p{
+#block-block-6 p{
   padding-left: 15%;
   padding-right: 15%;
 }
@@ -350,7 +356,7 @@ a, a:hover{
 - region content
 */
 
-#block-block-8, #block-block-9{
+#block-block-10, #block-block-15{
     padding-left: 0px;
     padding-right: 0px;
     background: #4a583d;
@@ -359,12 +365,12 @@ a, a:hover{
 
 
 
-#block-block-8 .block-title, #block-block-9 .block-title {
+#block-block-10 .block-title, #block-block-15 .block-title {
   color: white;
 }
 
 @media only screen and (max-width: 767px) {
-  #block-block-8 .row, #block-block-9 .row{
+  #block-block-10 .row, #block-block-15 .row{
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
@@ -372,7 +378,7 @@ a, a:hover{
 }
 
 @media only screen and (min-width: 768px) {
-  #block-block-8 .row, #block-block-9 .row{
+  #block-block-10 .row, #block-block-15 .row{
     padding-left: 120px;
     padding-right: 120px;
     padding-bottom: 20px;
@@ -514,7 +520,7 @@ p.section3{
 - sobreNos
 - region content
 */
-#block-block-17, #block-block-18{
+#block-block-12, #block-block-20{
   background: url('../images/biodiv/images_us/fungo.jpg') repeat center center;
   margin-left: 0px;
   margin-top: 50px;
@@ -524,7 +530,7 @@ p.section3{
   font-style: normal;
 }
 
-#block-block-17 .block-title, #block-block-18 .block-title{
+#block-block-12 .block-title, #block-block-20 .block-title{
   position: absolute;
     color: #FFF;
     text-align: center;
@@ -535,13 +541,13 @@ p.section3{
     font-size: 30px;
   }
 
-#block-block-17 h1, #block-block-18 h1{
+#block-block-12 h1, #block-block-20 h1{
   font-family: "PT Sans",sans-serif;
   font-size: 24px;
   text-align: center;
 }
 
-#block-block-17 h2, #block-block-18 h2{
+#block-block-12 h2, #block-block-20 h2{
   font-family: "PT Sans",sans-serif;
   font-size: 20px;
 }
