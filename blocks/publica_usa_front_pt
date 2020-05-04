@@ -3,7 +3,7 @@
     <div class="col-sm-6">
       <div class="publicaDados">
       <h2 class="section3H">Publicar dados de biodiversidade</h2>
-      <p class="section3">O GBIF promove e facilita a publicação de dados de biodiversidade por instituições nacionais. É possível publicar dados de ocorrência, de amostragens ou checklists, utilizando os padrões de dados de software promovido pelo GBIF. <br>O Nó Português do GBIF disponibiliza apoio, formação e infraestrutura para uso destas ferramentas.<br><br><a href="http://www.gbif.pt/taxonomy/term/29"><span class="glyphicon glyphicon-link"></span> Saiba mais</a>
+      <p class="section3">O GBIF promove e facilita a publicação de dados de biodiversidade por instituições nacionais. É possível publicar dados de ocorrência, de amostragens ou checklists, utilizando os padrões de dados de software promovido pelo GBIF. <br>O Nó Português do GBIF disponibiliza apoio, formação e infraestrutura para uso destas ferramentas.<br><br><a href="https://www.gbif.pt/taxonomy/term/29"><span class="glyphicon glyphicon-link"></span> Saiba mais</a>
       </p>
     </div>
     </div>
@@ -12,7 +12,7 @@
       <h2 class="section3H">Usar dados de biodiversidade</h2>
       <p class="section3">Veja exemplos de utiização dos dados publicados através do GBIF. Pode também reutilizar os dados num portal ou aplicação, utilizando web services do portal do GBIF e, no futuro, deste portal.
       <br><br><a href="https://www.gbif.org/resource/search?contentType=dataUse"><span class="glyphicon glyphicon-link"></span> Ver exemplos de uso</a>
-      <br><a href="http://www.gbif.org/developer/summary"><span class="glyphicon glyphicon-link"></span> Usar dados em aplicações</a></p>
+      <br><a href="https://www.gbif.org/developer/summary"><span class="glyphicon glyphicon-link"></span> Usar dados em aplicações</a></p>
     </div>
   </div>
   </div>

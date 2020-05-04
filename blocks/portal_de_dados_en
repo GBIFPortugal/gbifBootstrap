@@ -9,8 +9,8 @@
       <h2 class="section2H">Occurrence data</h2>
       <p class="section2">Search species occurrences, by scientific name, locality of observer. You can make a simple search, of use the advanced search to use several search criteria.</p>
       <ul class="section2">
-        <li><a href="http://dados.gbif.pt/generic-hub/search#tab_simpleSearch"><span class="glyphicon glyphicon-search"></span> Simple search</a></li>
-        <li><a href="http://dados.gbif.pt/generic-hub/search#tab_advanceSearch"><span class="glyphicon glyphicon-search"></span> Advanced search</a></li>
+        <li><a href="https://dados.gbif.pt/generic-hub/search#tab_simpleSearch"><span class="glyphicon glyphicon-search"></span> Simple search</a></li>
+        <li><a href="https://dados.gbif.pt/generic-hub/search#tab_advanceSearch"><span class="glyphicon glyphicon-search"></span> Advanced search</a></li>
       </ul>
     </div>
     <div class="col-sm-3 topicos">
@@ -18,8 +18,8 @@
       <h2 class="section2H">Spatial search</h2>
       <p class="section2">Get species occurrence records searching for an area or locality.</p>
       <ul class="section2">
-        <li><a href="http://dados.gbif.pt/generic-hub/search#tab_spatialSearch"><span class="glyphicon glyphicon-search"></span> Area search</a></li>
-        <li><a href="http://dados.gbif.pt/generic-hub/explore/your-area?default=true"><span class="glyphicon glyphicon-search"></span> Locality search</a></li>
+        <li><a href="https://dados.gbif.pt/generic-hub/search#tab_spatialSearch"><span class="glyphicon glyphicon-search"></span> Area search</a></li>
+        <li><a href="https://dados.gbif.pt/generic-hub/explore/your-area?default=true"><span class="glyphicon glyphicon-search"></span> Locality search</a></li>
       </ul>
     </div>
     <div class="col-sm-3 topicos">
@@ -27,7 +27,7 @@
       <h2 class="section2H">Publishers </h2>
       <p class="section2">Learn more about Portuguese institutions or organisations that publish biodiversity data through GBIF. You can search also for records published by each institution.</p>
     <ul class="section2">
-      <li><a href="http://metadados.gbif.pt/collectory/"><span class="glyphicon glyphicon-search"></span> See institutions</a></li>
+      <li><a href="https://metadados.gbif.pt/collectory/"><span class="glyphicon glyphicon-search"></span> See institutions</a></li>
     </ul>
     </div>
     <div class="col-sm-3 topicos">
@@ -35,7 +35,7 @@
       <h2 class="section2H">Datasets</h2>
       <p class="section2">Explore datasets published by Portuguese institutions, based either on biological collections of in biodiversity databases. </p>
       <ul class="section2">
-        <li><a href="http://metadados.gbif.pt/collectory/datasets"><span class="glyphicon glyphicon-search"></span> See datasets</a></li>
+        <li><a href="https://metadados.gbif.pt/collectory/datasets"><span class="glyphicon glyphicon-search"></span> See datasets</a></li>
     </ul>
     </div>
   </div>

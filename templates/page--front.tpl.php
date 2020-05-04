@@ -79,7 +79,7 @@
   <div class="gbif-top-header">
     <div class="row">
       <div class="col-sm-4 col-xs-12">
-        <a href="http://www.gbif.pt" style="margin-left:0px; background-color:white;"><img src="<?php print $base_path?>sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/gbifpt92_1.png"/></a>
+        <a href="https://www.gbif.pt" style="margin-left:0px; background-color:white;"><img src="<?php print $base_path?>sites/all/themes/gbifBootstrap-1.0/gbifBootstrap/images/gbifpt92_1.png"/></a>
         <div id=name-and-slogan>
         <div id="site-slogan">Global Biodiversity Information Facility</div>
         <div id="site-name">PORTUGAL</div>

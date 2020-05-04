@@ -3,7 +3,7 @@
     <div class="col-sm-6">
       <div class="publicaDados">
       <h2 class="section3H">Publish biodiversity data</h2>
-      <p class="section3">GBIF promotes and facilitates biodiversity data publishing by national institutions. It is possible to publish occurrence, sample-based or checklist data, using data standards and software adopted by GBIF. <br>GBIF Portugal provides support, training and infrastructure facilities for the uso of these tools.<br><br><a href="http://www.gbif.pt/taxonomy/term/29"><span class="glyphicon glyphicon-link"></span>Learn more</a>
+      <p class="section3">GBIF promotes and facilitates biodiversity data publishing by national institutions. It is possible to publish occurrence, sample-based or checklist data, using data standards and software adopted by GBIF. <br>GBIF Portugal provides support, training and infrastructure facilities for the uso of these tools.<br><br><a href="https://www.gbif.pt/taxonomy/term/29"><span class="glyphicon glyphicon-link"></span>Learn more</a>
       </p>
     </div>
     </div>
@@ -12,7 +12,7 @@
       <h2 class="section3H">Using biodiversity data</h2>
       <p class="section3">See examples of using data published through GBIF. You can also reuse data in a portal or application, using the web services of the GBIF Portal and also from this national portal.
       <br><br><a href="https://www.gbif.org/resource/search?contentType=dataUse"><span class="glyphicon glyphicon-link"></span> See use examples</a>
-      <br><a href="http://www.gbif.org/developer/summary"><span class="glyphicon glyphicon-link"></span> Use data in applications</a></p>
+      <br><a href="https://www.gbif.org/developer/summary"><span class="glyphicon glyphicon-link"></span> Use data in applications</a></p>
     </div>
   </div>
   </div>

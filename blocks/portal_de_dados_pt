@@ -9,8 +9,8 @@
       <h2 class="section2H">Dados de ocorrência</h2>
       <p class="section2">Pesquise a ocorrência de espécies, por nome científico, local ou coletor/observador. Pode fazer uma pesquisa simples, ou filtrar resultados através da pesquisa avançada.</p>
       <ul class="section2">
-        <li><a href="http://dados.gbif.pt/generic-hub/search#tab_simpleSearch"><span class="glyphicon glyphicon-search"></span> Pesquisa simples</a></li>
-        <li><a href="http://dados.gbif.pt/generic-hub/search#tab_advanceSearch"><span class="glyphicon glyphicon-search"></span> Pesquise avançada</a></li>
+        <li><a href="https://dados.gbif.pt/generic-hub/search#tab_simpleSearch"><span class="glyphicon glyphicon-search"></span> Pesquisa simples</a></li>
+        <li><a href="https://dados.gbif.pt/generic-hub/search#tab_advanceSearch"><span class="glyphicon glyphicon-search"></span> Pesquise avançada</a></li>
       </ul>
     </div>
     <div class="col-sm-3 topicos">
@@ -18,8 +18,8 @@
       <h2 class="section2H">Pesquisa espacial</h2>
       <p class="section2">Obtenha registos de ocorrência de espécies procurando por uma área ou por um local.</p>
       <ul class="section2">
-        <li><a href="http://dados.gbif.pt/generic-hub/search#tab_spatialSearch"><span class="glyphicon glyphicon-search"></span> Pesquise por área</a></li>
-        <li><a href="http://dados.gbif.pt/generic-hub/explore/your-area?default=true"><span class="glyphicon glyphicon-search"></span> Pesquise por local</a></li>
+        <li><a href="https://dados.gbif.pt/generic-hub/search#tab_spatialSearch"><span class="glyphicon glyphicon-search"></span> Pesquise por área</a></li>
+        <li><a href="https://dados.gbif.pt/generic-hub/explore/your-area?default=true"><span class="glyphicon glyphicon-search"></span> Pesquise por local</a></li>
       </ul>
     </div>
     <div class="col-sm-3 topicos">
@@ -27,7 +27,7 @@
       <h2 class="section2H">Publicadores </h2>
       <p class="section2">Saiba mais sobre as instituições ou organizações nacionais que publicam dados de biodiversdidade através do GBIF. Pode consultar também os registos que estas publicam.</p>
     <ul class="section2">
-      <li><a href="http://metadados.gbif.pt/collectory/"><span class="glyphicon glyphicon-search"></span> Consulte instituições</a></li>
+      <li><a href="https://metadados.gbif.pt/collectory/"><span class="glyphicon glyphicon-search"></span> Consulte instituições</a></li>
     </ul>
     </div>
     <div class="col-sm-3 topicos">
