@@ -18,6 +18,11 @@ These modules were added or changed
 - disable module comment
 - Empty front Page
 
+### Installation
+These settings are needed after activating the theme
+- Set CONTAINER to `fluid container`
+- Uncheck Logo, Site name, Site slogan and Short icon 
+
 ## CDN Starterkit
 
 The CDN Starterkit is rather simple to set up. You don't have to do anything
