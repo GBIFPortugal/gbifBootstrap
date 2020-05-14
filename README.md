@@ -21,7 +21,7 @@ These modules were added or changed
 ### Installation
 These settings are needed after activating the theme
 - Set CONTAINER to `fluid container`
-- Uncheck Logo, Site name, Site slogan and Short icon 
+- Uncheck `Logo`, `Site name`, `Site slogan` and `Short icon`
 
 ## CDN Starterkit
 
