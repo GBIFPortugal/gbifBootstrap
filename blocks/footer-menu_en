@@ -1,61 +1,61 @@
 <div class="row lowerbar">
   <div class="col-sm-6">
-  <div class="col-sm-3"><h2><a href="http://www.gbif.pt">Home</a></h2></div>
-    <div class="col-sm-3"><h2><a href="http://www.gbif.pt/taxonomy/term/28">Notícias</a></h2></div>
-    <div class="col-sm-3"><h2><a href="http://www.gbif.pt/taxonomy/term/29">Participar</a></h2>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt">Home</a></h2></div>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/28">News</a></h2></div>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/29">Participate</a></h2>
       <ul>
-        <li><a href="http://www.gbif.pt/node/18">Publicadores Portugueses</a></li>
-        <li><a href="http://www.gbif.pt/node/28">Acordo de partilha de dados</a></li>
-        <li><a href="http://www.gbif.pt/node/133">Ciclo de publicação de dados</a></li>
-        <li><a href="http://www.gbif.pt/node/17">Como partilhar</a></li>
-        <li><a href="http://www.gbif.pt/node/46">Informação sobre uso</a></li>
-        <li><a href="http://www.gbif.pt/node/16">Porquê partilhar</a></li>
-        <li><a href="http://www.gbif.pt/node/115">Questionário</a></li>
+        <li><a href="https://metadados.gbif.pt/">Portuguese publishers</a></li>
+        <li><a href="https://www.gbif.pt/node/492">Data publisher agreement</a></li>
+        <li><a href="https://www.gbif.pt/node/133">data publishing cycle</a></li>
+        <li><a href="https://www.gbif.pt/node/17">How to share</a></li>
+        <li><a href="https://www.gbif.pt/node/153">Information about the use</a></li>
+        <li><a href="https://www.gbif.pt/node/16">Why share</a></li>
+        <li><a href="https://www.gbif.pt/node/115">Questionnaire</a></li>
       </ul>
     </div>
-    <div class="col-sm-3"><h2><a href="http://www.gbif.pt/taxonomy/term/30">Dados</a></h2>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/30">Data</a></h2>
       <ul>
-        <li><a href="http://www.gbif.pt/node/25">Acordo de utilização de dados</a></li>
-        <li><a href="http://www.gbif.pt/node/24">Pesquisar e aceder aos dados</a></li>
-        <li><a href="http://www.gbif.pt/node/133">Exemplos de uso dos dados</a></li>
-        <li><a href="http://www.gbif.pt/node/17">Política de Acesso Aberto</a></li>
+        <li><a href="https://www.gbif.pt/node/491">Data user agreement</a></li>
+        <li><a href="https://dados.gbif.pt">Search data</a></li>
+        <li><a href="https://www.gbif.pt/node/23">Data use examples</a></li>
+        <li><a href="https://www.gbif.pt/node/506">Open Access policy</a></li>
       </ul>
     </div>
-    </div>
-    <div class="col-sm-6">
-    <div class="col-sm-3"><h2><a href="http://www.gbif.pt/taxonomy/term/44">Cooperação</a></h2>
+  </div>
+  <div class="col-sm-6">
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/44">Cooperation</a></h2>
       <ul>
-        <li><a href="http://www.gbif.pt/taxonomy/term/51">Aumento de capacitação GBIF</a></li>
-        <li><a href="http://www.gbif.pt/taxonomy/term/45">Pesquisar e aceder aos dados</a></li>
-        <li><a href="http://www.gbif.pt/taxonomy/term/47">Exemplos de uso dos dados</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/51">GBIF Capacity Enhancement</a></li>
+        <li><a href="http://www.gbif.pt/taxonomy/term/45">Collaboration Projects</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/47">Cooperation in CPLP</a></li>
       </ul>
     </div>
-    <div class="col-sm-3"><h2><a href="http://www.gbif.pt/taxonomy/term/31">Recursos</a></h2>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/31">Resources</a></h2>
       <ul>
-        <li><a href="http://www.gbif.pt/taxonomy/term/49">Apresentações</a></li>
-        <li><a href="http://www.gbif.pt/taxonomy/term/42">Formação</a></li>
-        <li><a href="http://www.gbif.pt/taxonomy/term/50">Materiais promocionais</a></li>
-        <li><a href="http://www.gbif.pt/taxonomy/term/39">Padrões</a></li>
-        <li><a href="http://www.gbif.pt/taxonomy/term/40">Software</a></li>
-        <li><a href="http://www.gbif.pt/taxonomy/term/38">Manuais</a></li>
-        <li><a href="http://www.gbif.pt/taxonomy/term/43">Folha informativa</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/49">Presentations</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/42">Training</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/50">Promotional materials</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/39">Data standards</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/40">Software</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/38">Manuals</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/43">Newsletter</a></li>
       </ul>
     </div>
-    <div class="col-sm-3"><h2><a href="http://www.gbif.pt/taxonomy/term/32">Sobre nós</a></h2>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/32">About us</a></h2>
       <ul>
-        <li><a href="http://www.gbif.pt/node/83">Sobre o Nó Português</a></li>
-        <li><a href="http://www.gbif.pt/taxonomy/term/37">Antecedentes</a></li>
-        <li><a href="http://www.gbif.pt/node/79">Contactos</a></li>
-        <li><a href="http://www.gbif.pt/taxonomy/term/48">Relatórios</a></li>
+        <li><a href="https://www.gbif.pt/node/83">About the Portuguese Node</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/37">Background</a></li>
+        <li><a href="https://www.gbif.pt/node/79">Contacts</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/48">Reports</a></li>
       </ul>
     </div>
-    <div class="col-sm-3"><h2>Redes sociais</h2>
+    <div class="col-sm-3"><h2>Social networks</h2>
       <ul>
-      <li class="redesSociais"><a href="https://twitter.com/gbifportugal" target="_blank"><i class="fa fa-twitter fa-lg"></i></a></li>
-      <li class="redesSociais"><a href="https://www.facebook.com/pages/Nó-Português-do-GBIF/294265787393100" target="_blank"><i class="fa fa-facebook fa-lg"></i></a></li>
-      <hr style="width:50%; margin-left: 0px;">
-      <li>Subscribe the <a href="http://www.gbif.pt/subscrever_comunicacoes">newsletter</a></li>
+        <li class="redesSociais"><a href="https://twitter.com/gbifportugal" target="_blank"><i class="fa fa-twitter fa-lg"></i></a></li>
+        <li class="redesSociais"><a href="https://www.facebook.com/pages/Nó-Português-do-GBIF/294265787393100" target="_blank"><i class="fa fa-facebook fa-lg"></i></a></li>
+        <hr style="width:50%; margin-left: 0px;">
+        <li><a href="https://www.gbif.pt/subscrever_comunicacoes">Subscribe the newsletter (in portuguese)</a></li>
       </ul>
     </div>
-</div>
+  </div>
 </div>
