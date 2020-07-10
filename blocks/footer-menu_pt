@@ -1,24 +1,36 @@
 <div class="row lowerbar">
   <div class="col-sm-6">
-    <div class="col-sm-3"><h2><a href="https://www.gbif.pt">Início</a></h2></div>
-    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/28">Notícias</a></h2></div>
-    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/29">Participar</a></h2>
-      <ul>
-        <li><a href="https://metadados.gbif.pt/">Publicadores Portugueses</a></li>
-        <li><a href="https://www.gbif.pt/node/492">Acordo de partilha de dados</a></li>
-        <li><a href="https://www.gbif.pt/node/133">Ciclo de publicação de dados</a></li>
-        <li><a href="https://www.gbif.pt/node/17">Como partilhar</a></li>
-        <li><a href="https://www.gbif.pt/node/153">Informação sobre uso</a></li>
-        <li><a href="https://www.gbif.pt/node/16">Porquê partilhar</a></li>
-        <li><a href="https://www.gbif.pt/node/115">Questionário</a></li>
-      </ul>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt">Início</a></h2>
+        <ul>
+          <hr style="width:50%; margin-left: 0px;">
+          <li><h2><a href="https://www.gbif.pt/news?language=pt-pt">Notícias</a></h2></li>
+          <li><a href="https://www.gbif.pt/news?language=pt-pt">Notícias e eventos</a></li>
+          <li><a href="https://www.gbif.pt/taxonomy/term/43?language=pt-pt">Folha informativa</a></li>
+        </ul>
     </div>
     <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/30">Dados</a></h2>
       <ul>
-        <li><a href="https://www.gbif.pt/node/491">Acordo de utilização de dados</a></li>
-        <li><a href="https://dados.gbif.pt">Pesquisar e aceder aos dados</a></li>
-        <li><a href="https://www.gbif.pt/node/23">Exemplos de uso dos dados</a></li>
-        <li><a href="https://www.gbif.pt/node/506">Política de Acesso Aberto</a></li>
+        <li><a href="https://dados.gbif.pt">Pesquisar dados</a></li>
+        <li><a href="https://www.gbif.pt/publish?language=pt-pt">Publicar dados</a></li>
+        <li><a href="https://metadados.gbif.pt/">Publicadores portugueses</a></li>
+        <li><a href="https://www.gbif.pt/node/506?language=pt-pt">Acesso aberto</a></li>
+        <li><a href="https://www.gbif.pt/node/23?language=pt-pt">Exemplos de uso dos dados</a></li>
+        <li><a href="https://www.gbif.pt/node/153?language=pt-pt">Informações sobre o uso</a></li>
+      </ul>
+    </div>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/publicar?language=pt-pt">Publicar dados</a></h2>
+      <ul>
+        <li><a href="https://www.gbif.pt/publish?language=pt-pt">Porquê publicar</a></li>
+        <li><a href="https://www.gbif.pt/publish/what?language=pt-pt">O que publicar</a></li>
+        <li><a href="https://www.gbif.pt/publish/how?language=pt-pt">Como publicar</a></li>
+        <li><a href="https://www.gbif.pt/publish/publisher?language=pt-pt">Acordo de publicação de dados</a></li>
+        <li><a href="https://www.gbif.pt/publish/user?language=pt-pt">Acordo de utilização de dados</a></li>
+      </ul>
+    </div>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/formacao?language=pt-pt">Formação</a></h2>
+      <ul>
+        <li><a href="https://www.gbif.pt/formacao?language=pt-pt">Todos os cursos</a></li>
+        <li><a href="https://www.gbif.pt/formacao2020?language=pt-pt">Plano de formação</a></li>
       </ul>
     </div>
   </div>
