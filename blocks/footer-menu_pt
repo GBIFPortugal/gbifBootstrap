@@ -42,23 +42,23 @@
         <li><a href="http://www.gbif.pt/taxonomy/term/47"Cooperação na CPLP</a></li>
       </ul>
     </div>
-    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/31">Recursos</a></h2>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/resources">Recursos</a></h2>
       <ul>
-        <li><a href="https://www.gbif.pt/taxonomy/term/49">Apresentações</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/42">Formação</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/50">Materiais promocionais</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/39">Padrões de dados</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/40">Software</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/38">Manuais</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/43">Folha informativa</a></li>
+        <li><a href="https://www.gbif.pt/infraestrutura?language=pt-pt">Infraestrutura</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/49?language=pt-pt">Apresentações</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/39?language=pt-pt">Padrões de dados</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/40?language=pt-pt">Software</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/38?language=pt-pt">Manuais</a></li>
       </ul>
     </div>
-    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/32">Sobre nós</a></h2>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/sobre?language=pt-pt">Sobre nós</a></h2>
       <ul>
-        <li><a href="https://www.gbif.pt/node/83">Sobre o Nó Português</a></li>
+        <li><a href="https://www.gbif.pt/node/83?language=pt-pt">Sobre o Nó Português</a></li>
         <li><a href="https://www.gbif.pt/taxonomy/term/37">Antecedentes</a></li>
-        <li><a href="https://www.gbif.pt/node/79">Contatos</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/48">Relatórios</a></li>
+        <li><a href="https://www.gbif.pt/planoestrategico">Plano estratégico</a></li>
+        <li><a href="https://www.gbif.pt/relatorios">Relatórios</a></li>
+        <li><a href="https://www.gbif.pt/equipa">Equipa</a></li>
+        <li><a href="https://www.gbif.pt/contactos">Contactos</a></li>
       </ul>
     </div>
     <div class="col-sm-3"><h2>Redes sociais</h2>

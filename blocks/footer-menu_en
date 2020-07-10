@@ -42,23 +42,23 @@
         <li><a href="https://www.gbif.pt/taxonomy/term/47">Cooperation in CPLP</a></li>
       </ul>
     </div>
-    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/31">Resources</a></h2>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/resources?language=en">Resources</a></h2>
       <ul>
-        <li><a href="https://www.gbif.pt/taxonomy/term/49">Presentations</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/42">Training</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/50">Promotional materials</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/39">Data standards</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/40">Software</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/38">Manuals</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/43">Newsletter</a></li>
+        <li><a href="https://www.gbif.pt/infraestrutura?language=en">Infrastructure</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/49?language=en">Presentations</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/39?language=en">Data standards</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/40?language=en">Software</a></li>
+        <li><a href="https://www.gbif.pt/taxonomy/term/38?language=en">Manuals</a></li>
       </ul>
     </div>
-    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/taxonomy/term/32">About us</a></h2>
+    <div class="col-sm-3"><h2><a href="https://www.gbif.pt/about?language=en">About us</a></h2>
       <ul>
         <li><a href="https://www.gbif.pt/node/83">About the Portuguese Node</a></li>
         <li><a href="https://www.gbif.pt/taxonomy/term/37">Background</a></li>
-        <li><a href="https://www.gbif.pt/node/79">Contacts</a></li>
-        <li><a href="https://www.gbif.pt/taxonomy/term/48">Reports</a></li>
+        <li><a href="https://www.gbif.pt/strategicplan?language=en">Strategic plan</a></li>
+        <li><a href="https://www.gbif.pt/relatorios?language=en">Reports</a></li>
+        <li><a href="https://www.gbif.pt/team?language=en">Team</a></li>
+        <li><a href="https://www.gbif.pt/contactos?language=en">Contacts</a></li>
       </ul>
     </div>
     <div class="col-sm-3"><h2>Social networks</h2>
